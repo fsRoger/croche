@@ -1,2 +1,2 @@
 # croche
-artista
+https://keykrono.github.io/croche/
